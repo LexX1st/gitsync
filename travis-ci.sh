@@ -22,7 +22,7 @@ opm install coverage;
 opm install; 
 echo "==================================="
 echo "Установка opm из develop"
-oscript ./tasks/install-opm-global;
+oscript ./tasks/install-opm-global.os;
 
 # cat /usr/bin/opm
 echo "==================================="
